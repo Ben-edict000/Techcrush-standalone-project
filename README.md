@@ -1,2 +1,2 @@
 # Techcrush-standalone-project
-we help in creating your modal images.
+We help in creating your modal images.
